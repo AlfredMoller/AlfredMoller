@@ -1,5 +1,3 @@
--
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
 -  👋 Hi, I’m @AlfredMoller
 - 👀 I’m interested in new programming languages, methods like computer vision, Machine Learning
 - 🌱 I’m currently learning Nodejs, React and Django as hobby...
