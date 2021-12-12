@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90"/>
 
 
  <img src="https://github-readme-stats.vercel.app/api?username=AlfredMoller&show_icons=true&theme=monokai"/>
