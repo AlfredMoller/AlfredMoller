@@ -13,4 +13,6 @@ You can click the Preview link to take a look at your changes.
 
  <img src="https://github-readme-stats.vercel.app/api?username=AlfredMoller&show_icons=true&theme=monokai"/>
 
+ ![](./profile-3d-contrib/profile-green-animate.svg)
+
  ![footer](https://capsule-render.vercel.app/api?section=footer)
