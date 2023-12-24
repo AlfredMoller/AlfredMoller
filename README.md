@@ -15,4 +15,6 @@ You can click the Preview link to take a look at your changes.
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-![snake gif](https://github.com/AlfredMoller/AlfredMoller/blob/output/github-contribution-grid-snake.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
+
+
