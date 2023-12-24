@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](banner_profile.png)
 
 
 -  👋 Hi, I’m @AlfredMoller
