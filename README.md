@@ -13,5 +13,6 @@ You can click the Preview link to take a look at your changes.
 
  <img src="https://github-readme-stats.vercel.app/api?username=AlfredMoller&show_icons=true&theme=monokai"/>
 
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 ![snake gif](https://github.com/AlfredMoller/AlfredMoller/blob/output/github-contribution-grid-snake.svg)
