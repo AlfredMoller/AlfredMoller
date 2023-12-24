@@ -15,4 +15,4 @@ You can click the Preview link to take a look at your changes.
 
  ![footer](https://capsule-render.vercel.app/api?section=footer)
 
-![snake gif](https://github.com/AlfredMoller/AlfredMoller/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/AlfredMoller/AlfredMoller/blob/output/github-contribution-grid-snake.svg)
