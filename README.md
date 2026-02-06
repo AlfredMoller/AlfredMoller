@@ -3,11 +3,12 @@
 
 -  👋 Hi, I’m @AlfredMoller
 - 👀 I’m interested in new programming languages, methods like computer vision, Machine Learning
-- 🌱 I’m currently learning Nodejs, React and Django as hobby...
+- 🌱 I’m currently learning and experimenting with FastAPI, robotics, and backend architectures. I’m also exploring the possibility of migrating a computer vision process to YOLO (Ultralytics)
 - 🥰 I'm a big Lego fan
-- 💼 I worked as a Python developer with Odoo (2 years and 1 month)... And I am not such a fan of this technology compared to others. Today I work as a Java Backend and Angular Frontend developer.
+- 💼 I’m a Python developer with Odoo, with almost 4 years of experience building custom modules, business logic, and integrations.
+      I’ve worked with Odoo extensively, especially in complex business processes, although I enjoy exploring other technologies and paradigms beyond ERP systems.
 - 💞️ I’m looking to collaborate on new projects like python, Java Web...
-- 💯 Today we are creating a possible business with two collaborators as part of a hobby.
+- 💯 Currently, I’m developing Agrobot as a personal hobby project, exploring the integration of Odoo, robotics, and computer vision applied to agriculture
 - 📫 You can reach at this e-mail direction: almoller623@gmail.com ...
 
 <!---
