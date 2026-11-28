@@ -1,4 +1,11 @@
-![Banner](banner.png)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/astro-lab-v4-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/astro-lab-v4.svg">
+    <img src="./assets/astro-lab-v4-dark.svg" width="100%"
+         alt="Alfred Möller · Backend Developer — una idea entra por INBOX y seis astronautas la llevan a producción: investigación, desarrollo, pruebas, CI/CD, despliegue y monitoreo" />
+  </picture>
+</p>
 
 
 -  👋 Hi, I’m @AlfredMoller
