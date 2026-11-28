@@ -29,6 +29,9 @@ You can click the Preview link to take a look at your changes.
  <!--<img src="https://github-readme-stats.vercel.app/api?username=AlfredMoller&show_icons=true&theme=monokai"/>-->
 
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+<p align="center">
+  <img src="./assets/factory-telemetry.svg" width="100%"
+       alt="Factory Telemetry — 652 contribuciones en los últimos 12 meses: 186 commits, 4 issues, 20 repos; un astronauta opera la consola mientras una caja de código avanza por la cinta" />
+</p>
 
 
